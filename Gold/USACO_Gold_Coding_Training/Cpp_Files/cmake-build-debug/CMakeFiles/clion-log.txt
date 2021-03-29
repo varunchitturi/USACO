@@ -1,0 +1,15 @@
+"/Users/varunchitturi/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.5981.166/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" "/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files"
+CMake Warning at /Users/varunchitturi/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.5981.166/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/Platform/Darwin-Initialize.cmake:286 (message):
+  Ignoring CMAKE_OSX_SYSROOT value:
+
+   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk
+
+  because the directory does not exist.
+Call Stack (most recent call first):
+  /Users/varunchitturi/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.5981.166/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/CMakeSystemSpecificInitialize.cmake:21 (include)
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files/cmake-build-debug

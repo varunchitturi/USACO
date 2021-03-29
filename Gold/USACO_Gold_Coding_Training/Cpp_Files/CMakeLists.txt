@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.17)
+project(Cpp_Files)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(magicSquares magicSquares.cpp)
+add_executable(catchThatCow catchThatCow.cpp)
+add_executable(tractor tractor.cpp)
+add_executable(scales scales.cpp)
+add_executable(gravity gravity.cpp)
+add_executable(fliptile fliptile.cpp)
+add_executable(overfencing overfencing.cpp)
+add_executable(autoComplete autoComplete.cpp)
+add_executable(cowDanceShow cowDanceShow.cpp)
+add_executable(tallestCow tallestCow.cpp)
+add_executable(gameOfLine gameOfLine.cpp)
+add_executable(partyInvitations partyInvitations.cpp)
+add_executable(cityHorizon cityHorizon.cpp)

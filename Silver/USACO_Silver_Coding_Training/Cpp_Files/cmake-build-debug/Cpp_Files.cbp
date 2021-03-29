@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Cpp_Files"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="badGrass">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/badGrass" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 badGrass"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="badGrass/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/badGrass" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 badGrass/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="theClocks">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/theClocks" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 theClocks"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="theClocks/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/theClocks" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 theClocks/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3dSpaceExploration">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/3dSpaceExploration" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 3dSpaceExploration"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3dSpaceExploration/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/3dSpaceExploration" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 3dSpaceExploration/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cornMaze">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/cornMaze" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 cornMaze"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cornMaze/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/cornMaze" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 cornMaze/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wordMorph">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/wordMorph" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 wordMorph"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wordMorph/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/wordMorph" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 wordMorph/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bronzeLilypad">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/bronzeLilypad" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 bronzeLilypad"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bronzeLilypad/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/bronzeLilypad" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 bronzeLilypad/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unblockingBlocks">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/unblockingBlocks" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 unblockingBlocks"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unblockingBlocks/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/unblockingBlocks" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 unblockingBlocks/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lifegaurds">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/lifegaurds" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 lifegaurds"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lifegaurds/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/lifegaurds" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 lifegaurds/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="laserPhones">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/laserPhones" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 laserPhones"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="laserPhones/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/laserPhones" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 laserPhones/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="milkMeasurement">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/milkMeasurement" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 milkMeasurement"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="milkMeasurement/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/milkMeasurement" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 milkMeasurement/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wormholes">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/wormholes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 wormholes"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wormholes/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/wormholes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 wormholes/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cowYahtzee">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/cowYahtzee" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 cowYahtzee"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cowYahtzee/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/cowYahtzee" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 cowYahtzee/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="baleShare">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/baleShare" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 baleShare"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="baleShare/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/baleShare" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 baleShare/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="backToTheBarn">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/backToTheBarn" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 backToTheBarn"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="backToTheBarn/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/backToTheBarn" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 backToTheBarn/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wrongDirections">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/wrongDirections" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 wrongDirections"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wrongDirections/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/wrongDirections" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 wrongDirections/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="qsort">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/qsort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 qsort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="qsort/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/qsort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 qsort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cardStacking-cheat">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/cardStacking-cheat" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 cardStacking-cheat"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cardStacking-cheat/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/cardStacking-cheat" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 cardStacking-cheat/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="typo">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/typo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 typo"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="typo/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/typo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 typo/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="censoring">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/censoring" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 censoring"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="censoring/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/censoring" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 censoring/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cowJog">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/cowJog" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 cowJog"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cowJog/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/cowJog" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 cowJog/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="paintJob">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/paintJob" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 paintJob"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="paintJob/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/paintJob" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 paintJob/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="scrambledLetters">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/scrambledLetters" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 scrambledLetters"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="scrambledLetters/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/scrambledLetters" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 scrambledLetters/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="farmOff">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/farmOff" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 farmOff"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="farmOff/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/farmOff" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 farmOff/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minesweeper">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/minesweeper" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 minesweeper"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minesweeper/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/minesweeper" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 minesweeper/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="palindromicPaths">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/palindromicPaths" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 palindromicPaths"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="palindromicPaths/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/palindromicPaths" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 palindromicPaths/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="flyingCow">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/flyingCow" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 flyingCow"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="flyingCow/fast">
+				<Option output="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/flyingCow" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 flyingCow/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/varunchitturi/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/3dSpaceExploration.cpp">
+			<Option target="3dSpaceExploration"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/backToTheBarn.cpp">
+			<Option target="backToTheBarn"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/badGrass.cpp">
+			<Option target="badGrass"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/baleShare.cpp">
+			<Option target="baleShare"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/bronzeLilypad.cpp">
+			<Option target="bronzeLilypad"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cardStacking-cheat.cpp">
+			<Option target="cardStacking-cheat"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/censoring.cpp">
+			<Option target="censoring"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cornMaze.cpp">
+			<Option target="cornMaze"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cowJog.cpp">
+			<Option target="cowJog"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cowYahtzee.cpp">
+			<Option target="cowYahtzee"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/farmOff.cpp">
+			<Option target="farmOff"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/flyingCow.cpp">
+			<Option target="flyingCow"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/laserPhones.cpp">
+			<Option target="laserPhones"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/lifegaurds.cpp">
+			<Option target="lifegaurds"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/milkMeasurement.cpp">
+			<Option target="milkMeasurement"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/minesweeper.cpp">
+			<Option target="minesweeper"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/paintJob.cpp">
+			<Option target="paintJob"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/palindromicPaths.cpp">
+			<Option target="palindromicPaths"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/qsort.cpp">
+			<Option target="qsort"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/scrambledLetters.cpp">
+			<Option target="scrambledLetters"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/theClocks.cpp">
+			<Option target="theClocks"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/typo.cpp">
+			<Option target="typo"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/unblockingBlocks.cpp">
+			<Option target="unblockingBlocks"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/wordMorph.cpp">
+			<Option target="wordMorph"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/wormholes.cpp">
+			<Option target="wormholes"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/wrongDirections.cpp">
+			<Option target="wrongDirections"/>
+		</Unit>
+		<Unit filename="/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

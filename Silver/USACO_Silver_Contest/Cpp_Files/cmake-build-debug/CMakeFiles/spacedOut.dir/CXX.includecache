@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Contest/Cpp_Files/spacedOut.cpp
+iostream
+-
+string
+-
+algorithm
+-
+vector
+-
+map
+-
+set
+-
+unordered_set
+-
+queue
+-
+unordered_map
+-
+stack
+-
+

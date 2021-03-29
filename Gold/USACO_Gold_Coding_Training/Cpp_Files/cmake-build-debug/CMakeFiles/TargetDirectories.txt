@@ -1,0 +1,15 @@
+/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files/cmake-build-debug/CMakeFiles/gameOfLine.dir
+/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files/cmake-build-debug/CMakeFiles/cowDanceShow.dir
+/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files/cmake-build-debug/CMakeFiles/autoComplete.dir
+/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files/cmake-build-debug/CMakeFiles/cityHorizon.dir
+/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files/cmake-build-debug/CMakeFiles/fliptile.dir
+/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files/cmake-build-debug/CMakeFiles/partyInvitations.dir
+/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files/cmake-build-debug/CMakeFiles/magicSquares.dir
+/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files/cmake-build-debug/CMakeFiles/gravity.dir
+/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files/cmake-build-debug/CMakeFiles/overfencing.dir
+/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files/cmake-build-debug/CMakeFiles/scales.dir
+/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files/cmake-build-debug/CMakeFiles/tractor.dir
+/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files/cmake-build-debug/CMakeFiles/catchThatCow.dir
+/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files/cmake-build-debug/CMakeFiles/tallestCow.dir

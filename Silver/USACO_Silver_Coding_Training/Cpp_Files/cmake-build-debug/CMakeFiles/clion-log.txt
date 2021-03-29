@@ -1,0 +1,4 @@
+"/Users/varunchitturi/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/202.6948.80/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Silver_Coding_Training/Cpp_Files/cmake-build-debug

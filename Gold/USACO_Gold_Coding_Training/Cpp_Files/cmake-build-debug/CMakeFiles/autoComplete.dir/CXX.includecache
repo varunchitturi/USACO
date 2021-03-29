@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/varunchitturi/Library/Mobile Documents/com~apple~CloudDocs/Documents/Coding/USACO_Gold_Coding_Training/Cpp_Files/autoComplete.cpp
+iostream
+-
+string
+-
+algorithm
+-
+utility
+-
+vector
+-
+map
+-
+set
+-
+unordered_set
+-
+queue
+-
+unordered_map
+-
+stack
+-
+
